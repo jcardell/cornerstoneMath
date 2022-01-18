@@ -1,5 +1,5 @@
 {
-  "name": "idonia-cornerstone-math",
+  "name": "@idonia/cornerstone-math",
   "version": "0.2.0",
   "description": "Math and computation geometry functionality for cornerstone",
   "main": "./dist/cornerstoneMath.min.js",
